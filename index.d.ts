@@ -1,4 +1,4 @@
-declare module "eglass-utils" {
+declare module "ali-oss-tools" {
 	import { Readable } from "stream";
 	type result = Promise<string> | Error
 	export class OssClient {

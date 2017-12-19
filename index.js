@@ -1,0 +1,1 @@
+exports.OssClient = require('./src/oss')

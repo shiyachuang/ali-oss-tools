@@ -1,0 +1,27 @@
+{
+  "name": "ali-oss-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiyachuang/ali-oss-tools.git"
+  },
+  "dependencies": {
+    "ali-oss": "^4.11.2",
+    "co": "^4.6.0",
+    "uuid": "^3.1.0"
+  },
+  "keywords": [
+    "ali-oss"
+  ],
+  "author": "Chuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shiyachuang/ali-oss-tools/issues"
+  },
+  "homepage": "https://github.com/shiyachuang/ali-oss-tools#readme"
+}
